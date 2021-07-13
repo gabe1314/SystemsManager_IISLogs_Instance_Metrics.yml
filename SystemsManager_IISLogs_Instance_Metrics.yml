@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: LinkNet-FE-Production-ElasticBeanstalk
+Description: Collect Logs and Metrics to CloudWatch for IIS Logs, Event Viewer, Volume and Memory Metrics
 
 Parameters:
   S3_Bucket_Name:
